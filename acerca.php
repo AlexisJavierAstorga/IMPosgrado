@@ -22,7 +22,7 @@
 	        h.parentNode.insertBefore(s,h);
 	    })(window,document);
 	  </script>
-		
+
 	<!--
 	//////////////////////////////////////////////////////
 
@@ -81,15 +81,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="index.html"><img width="100" src="images/logo/logo.png" alt="">Posgrado<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.php"><img width="100" src="images/logo/logo.png" alt="">Posgrado<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
-							<li class="active"><a href="index.html">Inicio</a></li>
+							<li class="active"><a href="index.php">Inicio</a></li>
 							<li class="has-dropdown">
-								<a href="acerca.html">Acerca de</a>
+								<a href="acerca.php">Acerca de</a>
 								<ul class="dropdown">
-									<li><a href="acerca.html">Historia</a></li>
+									<li><a href="acerca.php">Historia</a></li>
 									<li><a href="#">Estructura del Posgrado</a></li>
 									<li><a href="#">Mensaje del Coordinador</a></li>
 								</ul>
@@ -115,7 +115,7 @@
 								</ul>
 							</li>
 							<li class="has-dropdown">
-								<a href="comunidad.html">Comunidad</a>
+								<a href="comunidad.php">Comunidad</a>
 								<ul class="dropdown">
 									<li><a href="#">Número de alumnos matriculados</a></li>
 									<li><a href="#">Núcleo académico básico</a></li>
@@ -152,18 +152,18 @@
 								</ul>
 							</li>
 							<!--
-							<li><a href="menu.html">Menu</a></li>
+							<li><a href="menu.php">Menu</a></li>
 							<li class="has-dropdown">
-								<a href="gallery.html">Gallery</a>
+								<a href="gallery.php">Gallery</a>
 								<ul class="dropdown">
 									<li><a href="#">Events</a></li>
 									<li><a href="#">Food</a></li>
 									<li><a href="#">Coffees</a></li>
 								</ul>
 							</li>
-							<li><a href="reservation.html">Reservation</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="reservation.php">Reservation</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						-->
 						</ul>
 					</div>
@@ -311,7 +311,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Titulo</h2>
 					<p>Parrafo</p>
-					<p><a href="reservation.html" class="btn btn-primary btn-outline">Boton</a></p>
+					<p><a href="reservation.php" class="btn btn-primary btn-outline">Boton</a></p>
 				</div>
 			</div>
 		</div>
