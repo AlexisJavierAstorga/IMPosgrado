@@ -181,7 +181,7 @@
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<h1>POSGRADO DEL INSTITUTO MEXICANO DEL PETRÓLEO</h1>
-							<h2>Te damos la bienvenida al <a href="http://freehtml5.co/" target="_blank">portal oficial</a></h2>
+							<h2>Te damos la bienvenida al <a href="#" target="_blank">portal oficial</a></h2>
 						</div>
 					</div>
 				</div>
@@ -189,120 +189,94 @@
 		</div>
 	</header>
 
-
-	<div id="fh5co-about" class="fh5co-section">
+	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
-					<img src="images/imp.jpg" width="800" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+
+				<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
+						<img src="images/imp.jpg" width="500" alt="">
 				</div>
-				<div class="col-md-5 col-md-push-1 animate-box">
-					<div class="section-heading">
-						<h2>Titulo</h2>
-						<p>Parrafo</p>
-						<p><a href="#" class="btn btn-primary btn-outline">boton</a></p>
+				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
+					<blockquote>
+						<p>Pre-inscripción</p>
+						<p class="author"><cite>&mdash; Llenar solicitud y proporcionar los  documentos que se solicitan en la convocatoria subiéndolos en nuestra herramienta que se habilito para dicho registro.</cite></p>
+					</blockquote>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-slider" class="fh5co-section animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 animate-box">
+					<div class="fh5co-heading">
+						<h2>Proceso de selección</h2>
+						<p>Si cumplen los estudiantes registrados con la convocatoria.</p>
 					</div>
 				</div>
-			</div>
-		</div>
-	</div>
 
-	<div id="fh5co-timeline">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 col-md-offset-0">
-					<ul class="timeline animate-box">
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>Titulo</h3></div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-
-						<br>
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>Titulo</h3></div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo/h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-			    	</ul>
+				<div class="col-md-6 col-md-push-1 animate-box">
+					<aside id="fh5co-slider-wrwap">
+					<div class="flexslider">
+						<ul class="slides">
+					   	<li style="background-image: url(images/imp.jpg);">
+					   		<div class="overlay-gradient"></div>
+					   		<div class="container-fluid">
+					   			<div class="row">
+						   			<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
+						   				<div class="slider-text-inner">
+						   					<div class="desc">
+													<h2>Primer paso</h2>
+													<p>Se les cita para realizar 1 examen de conocimientos (admisión).</p>
+													<p><a href="#" class="btn btn-primary btn-outline">Leer Más</a></p>
+						   					</div>
+						   				</div>
+						   			</div>
+						   		</div>
+					   		</div>
+					   	</li>
+					   	<li style="background-image: url(images/torre.jpg);">
+					   		<div class="overlay-gradient"></div>
+					   		<div class="container-fluid">
+					   			<div class="row">
+						   			<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
+						   				<div class="slider-text-inner">
+						   					<div class="desc">
+													<!-- <h2>Tuna <em>&amp;</em> Roast Beef</h2> -->
+													<h2>Segundo paso</h2>
+													<p>El comité evaluador realiza las entrevistas de selección a los aspirantes pre-seleccionados.</p>
+													<p><a href="#" class="btn btn-primary btn-outline">Leer Más</a></p>
+						   					</div>
+						   				</div>
+						   			</div>
+						   		</div>
+					   		</div>
+					   	</li>
+					   	<li style="background-image: url(images/imp.jpg);">
+					   		<div class="overlay-gradient"></div>
+					   		<div class="container-fluid">
+					   			<div class="row">
+						   			<div class="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
+						   				<div class="slider-text-inner">
+						   					<div class="desc">
+													<h2>Tercer paso</h2>
+													<p>Se proporcionan los resultados al aspirante.</p>
+													<p><a href="#" class="btn btn-primary btn-outline">Leer Más</a></p>
+						   					</div>
+						   				</div>
+						   			</div>
+						   		</div>
+					   		</div>
+					   	</li>
+					  	</ul>
+				  	</div>
+				</aside>
 				</div>
 			</div>
 		</div>
 	</div>
+
 
 	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/imp.jpg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
@@ -311,7 +285,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Titulo</h2>
 					<p>Parrafo</p>
-					<p><a href="reservation.php" class="btn btn-primary btn-outline">Boton</a></p>
+					<p><a href="reservation.html" class="btn btn-primary btn-outline">Boton</a></p>
 				</div>
 			</div>
 		</div>

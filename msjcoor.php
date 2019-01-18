@@ -181,7 +181,7 @@
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<h1>POSGRADO DEL INSTITUTO MEXICANO DEL PETRÓLEO</h1>
-							<h2>Te damos la bienvenida al <a href="http://freehtml5.co/" target="_blank">portal oficial</a></h2>
+							<h2>Te damos la bienvenida al <a href="#" target="_blank">portal oficial</a></h2>
 						</div>
 					</div>
 				</div>
@@ -189,120 +189,35 @@
 		</div>
 	</header>
 
-
-	<div id="fh5co-about" class="fh5co-section">
+	<div id="fh5co-featured-menu" class="fh5co-section">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
-					<img src="images/imp.jpg" width="800" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
-				</div>
-				<div class="col-md-5 col-md-push-1 animate-box">
-					<div class="section-heading">
-						<h2>Titulo</h2>
-						<p>Parrafo</p>
-						<p><a href="#" class="btn btn-primary btn-outline">boton</a></p>
+				<div class="col-md-12 fh5co-heading animate-box">
+					<h2>Mensaje del Coordinador</h2>
+					<div class="row">
+
+							<p>Estimada comunidad de estudiantil:  El IMP comprometido con la formación de recursos humanos del alto valor,  que contribuyan a la solución de problemas nacionales y fomenten el bienestar de su sociedad, ofrece una sólida formación a través de sus diversos programas de posgrado.</p>
+
+							<p>Organizados en  dos líneas de investigación, los programas de posgrado del Instituto Mexicano del Petróleo incluyen planes de estudio de maestría y doctorado enfocados.</p>
+
+							<p>Cabe señalar que actualmente contamos con 129 planes de estudio (incluyendo especializaciones médicas) acreditados en el Programa Nacional de Posgrados de Calidad (PNPC) del CONACYT.</p>
+
+							<p>Con una comunidad de más de 14 mil alumnos, 9 mil de nivel maestría y 5 mil de nivel doctorado, los cuales cuenta con el apoyo de más de 5 mil tutores, 70% de ellos reconocidos por el Sistema Nacional de Investigadores (SNI), la UNAM es, de acuerdo con los últimos datos del International Science Indicators (ISI), la Institución de Educación Superior con mayor productividad científica en México al generar cerca del 30% de los artículos científicos publicados por académicos mexicanos.</p>
+
+							<p>Para lograr lo anterior, participan de manera articulada tutores y profesores adscritos a 89 entidades académicas conformadas por: 32 institutos, 20 facultades, 15 centros de investigación, 6 escuelas, una dirección general y 15 entidades externas a la UNAM. Además se ofrecen diversos apoyos a los alumnos, en 2015 se otorgaron más de 1,100 becas para estudios de maestría y doctorado, y cerca de 1,300 apoyos económicos a los alumnos que se gradúen oportunamente. Es así como la Coordinación de Estudios de Posgrado del IMP  coordina las actividades académico-administrativas del Sistema de Estudios de Posgrado, las cuales se desarrollan en la Unidad de Posgrado, edificio ubicado en la Zona Cultural de Ciudad Universitaria. En esta unidad se cuenta con salones de clases, zonas de lectura o consulta, cafetería, etc. Se ofrece también el servicio de préstamo de equipo de cómputo para acceder a los acervos digitales de la UNAM y de otras instituciones.</p>
+
+							<p>Es por ello que el Posgrado de la UNAM es la mejor opción para realizar estudios de posgrado. Los invito a que conozcan los programas de posgrado, los apoyos a alumnos, las convocatorias, publicaciones y servicios académicos que el Posgrado UNAM tiene para ti a través de nuestro sitio web.</p>
+ 
+							<p><b>Bienvenidos al posgrado de la UNAM</b></p>
+ 
+							<p><b>Dr. Javier Nieto GutiérrezCoordinador de Estudios de Posgrado</b></p>
+</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div id="fh5co-timeline">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 col-md-offset-0">
-					<ul class="timeline animate-box">
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>Titulo</h3></div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-
-						<br>
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>Titulo</h3></div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo/h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-			    	</ul>
-				</div>
-			</div>
-		</div>
-	</div>
 
 	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/imp.jpg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
@@ -311,7 +226,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Titulo</h2>
 					<p>Parrafo</p>
-					<p><a href="reservation.php" class="btn btn-primary btn-outline">Boton</a></p>
+					<p><a href="reservation.html" class="btn btn-primary btn-outline">Boton</a></p>
 				</div>
 			</div>
 		</div>

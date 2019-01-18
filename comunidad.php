@@ -76,102 +76,102 @@
 	<div class="fh5co-loader"></div>
 
 	<div id="page">
-	<nav class="fh5co-nav" role="navigation">
-		<!-- <div class="top-menu"> -->
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="index.php"><img width="100" src="images/logo/logo.png" alt="">Posgrado<span>.</span></a></div>
+		<nav class="fh5co-nav" role="navigation">
+			<!-- <div class="top-menu"> -->
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12 text-center logo-wrap">
+							<div id="fh5co-logo"><a href="index.php"><img width="100" src="images/logo/logo.png" alt="">Posgrado<span>.</span></a></div>
+						</div>
+						<div class="col-xs-12 text-center menu-1 menu-wrap">
+							<ul>
+								<li class="active"><a href="index.html">Inicio</a></li>
+								<li class="has-dropdown">
+									<a href="acerca.php">Acerca de</a>
+									<ul class="dropdown">
+										<li><a href="acerca.php">Historia</a></li>
+										<li><a href="estructura.php">Estructura del Posgrado</a></li>
+										<li><a href="msjcoor.php">Mensaje del Coordinador</a></li>
+									</ul>
+								</li>
+								<li class="has-dropdown">
+									<a href="#">Oferta académica</a>
+									<ul class="dropdown">
+										<li><a href="#">Especialidad en Dirección y Gestión Estratégica de Proyectos</a></li>
+										<li><a href="#">Maestría en Ciencias / Maestría en Ingeniería</a></li>
+										<li><a href="#">Doctorado en Ciencias e Ingeniería</a></li>
+									</ul>
+								</li>
+								<li class="has-dropdown">
+									<a href="#">Plan de estudios</a>
+									<ul class="dropdown">
+										<li><a href="#">Objetivos generales y particulares</a></li>
+										<li><a href="#">Perfil de ingreso y egreso</a></li>
+										<li><a href="#">Número de créditos</a></li>
+										<li><a href="#">Contenidos</a></li>
+										<li><a href="#">Metodología de enseñanza y aprendizaje</a></li>
+										<li><a href="#">Criterios y procedimientos de evaluación</a></li>
+										<li><a href="#">Bibliografía relevante y actualizada</a></li>
+									</ul>
+								</li>
+								<li class="has-dropdown">
+									<a href="comunidad.php">Comunidad</a>
+									<ul class="dropdown">
+										<li><a href="#">Número de alumnos matriculados</a></li>
+										<li><a href="#">Núcleo académico básico</a></li>
+										<li><a href="#">Directores de tesis doctorales y  tutores de trabajos de investigación o profesional</a></li>
+										<li><a href="#">Contenidos</a></li>
+										<li><a href="#">Metodología de enseñanza y aprendizaje</a></li>
+										<li><a href="#">Criterios y procedimientos de evaluación</a></li>
+									</ul>
+								</li>
+								<li class="has-dropdown">
+									<a href="#">Procesos administrativos</a>
+									<ul class="dropdown">
+										<li><a href="inscrip.php">Pre-inscripción, Inscripción y matrícula</a></li>
+										<li><a href="#">Núcleo académico básico</a></li>
+										<li><a href="#">Directores de tesis doctorales y  tutores de trabajos de investigación o profesional</a></li>
+										<li><a href="#">Contenido</a></li>
+										<li><a href="#">Metodología de enseñanza y aprendizaje</a></li>
+										<li><a href="#">Criterios y procedimientos de evaluación</a></li>
+									</ul>
+								</li>
+								<li class="has-dropdown">
+									<a href="#">Vinculación</a>
+									<ul class="dropdown">
+										<li><a href="#">Líneas de aplicación del programa</a></li>
+										<li><a href="#">Productividad académica</a></li>
+										<li><a href="#">Vinculación con otros sectores de la sociedad</a></li>
+										<li><a href="#">Vinculación con otras universidades</a></li>
+									</ul>
+								</li>
+								<li class="has-dropdown">
+									<a href="#">Contacto</a>
+									<ul class="dropdown">
+										<li><a href="#">Directorio</a></li>
+									</ul>
+								</li>
+								<!--
+								<li><a href="menu.html">Menu</a></li>
+								<li class="has-dropdown">
+									<a href="gallery.html">Gallery</a>
+									<ul class="dropdown">
+										<li><a href="#">Events</a></li>
+										<li><a href="#">Food</a></li>
+										<li><a href="#">Coffees</a></li>
+									</ul>
+								</li>
+								<li><a href="reservation.html">Reservation</a></li>
+								<li><a href="about.html">About</a></li>
+								<li><a href="contact.html">Contact</a></li>
+							-->
+							</ul>
+						</div>
 					</div>
-					<div class="col-xs-12 text-center menu-1 menu-wrap">
-						<ul>
-							<li class="active"><a href="index.php">Inicio</a></li>
-							<li class="has-dropdown">
-								<a href="acerca.php">Acerca de</a>
-								<ul class="dropdown">
-									<li><a href="acerca.php">Historia</a></li>
-									<li><a href="#">Estructura del Posgrado</a></li>
-									<li><a href="#">Mensaje del Coordinador</a></li>
-								</ul>
-							</li>
-							<li class="has-dropdown">
-								<a href="#">Oferta académica</a>
-								<ul class="dropdown">
-									<li><a href="#">Especialidad en Dirección y Gestión Estratégica de Proyectos</a></li>
-									<li><a href="#">Maestría en Ciencias / Maestría en Ingeniería</a></li>
-									<li><a href="#">Doctorado en Ciencias e Ingeniería</a></li>
-								</ul>
-							</li>
-							<li class="has-dropdown">
-								<a href="#">Plan de estudios</a>
-								<ul class="dropdown">
-									<li><a href="#">Objetivos generales y particulares</a></li>
-									<li><a href="#">Perfil de ingreso y egreso</a></li>
-									<li><a href="#">Número de créditos</a></li>
-									<li><a href="#">Contenidos</a></li>
-									<li><a href="#">Metodología de enseñanza y aprendizaje</a></li>
-									<li><a href="#">Criterios y procedimientos de evaluación</a></li>
-									<li><a href="#">Bibliografía relevante y actualizada</a></li>
-								</ul>
-							</li>
-							<li class="has-dropdown">
-								<a href="#">Comunidad</a>
-								<ul class="dropdown">
-									<li><a href="#">Número de alumnos matriculados</a></li>
-									<li><a href="#">Núcleo académico básico</a></li>
-									<li><a href="#">Directores de tesis doctorales y  tutores de trabajos de investigación o profesional</a></li>
-									<li><a href="#">Contenidos</a></li>
-									<li><a href="#">Metodología de enseñanza y aprendizaje</a></li>
-									<li><a href="#">Criterios y procedimientos de evaluación</a></li>
-								</ul>
-							</li>
-							<li class="has-dropdown">
-								<a href="#">Procesos administrativos</a>
-								<ul class="dropdown">
-									<li><a href="#">Pre-inscripción, Inscripción y matrícula</a></li>
-									<li><a href="#">Núcleo académico básico</a></li>
-									<li><a href="#">Directores de tesis doctorales y  tutores de trabajos de investigación o profesional</a></li>
-									<li><a href="#">Contenido</a></li>
-									<li><a href="#">Metodología de enseñanza y aprendizaje</a></li>
-									<li><a href="#">Criterios y procedimientos de evaluación</a></li>
-								</ul>
-							</li>
-							<li class="has-dropdown">
-								<a href="#">Vinculación</a>
-								<ul class="dropdown">
-									<li><a href="#">Líneas de aplicación del programa</a></li>
-									<li><a href="#">Productividad académica</a></li>
-									<li><a href="#">Vinculación con otros sectores de la sociedad</a></li>
-									<li><a href="#">Vinculación con otras universidades</a></li>
-								</ul>
-							</li>
-							<li class="has-dropdown">
-								<a href="#">Contacto</a>
-								<ul class="dropdown">
-									<li><a href="#">Directorio</a></li>
-								</ul>
-							</li>
-							<!--
-							<li><a href="menu.php">Menu</a></li>
-							<li class="has-dropdown">
-								<a href="gallery.php">Gallery</a>
-								<ul class="dropdown">
-									<li><a href="#">Events</a></li>
-									<li><a href="#">Food</a></li>
-									<li><a href="#">Coffees</a></li>
-								</ul>
-							</li>
-							<li><a href="reservation.php">Reservation</a></li>
-							<li><a href="about.php">About</a></li>
-							<li><a href="contact.php">Contact</a></li>
-						-->
-						</ul>
-					</div>
-				</div>
 
-			</div>
-		<!-- </div> -->
-	</nav>
+				</div>
+			<!-- </div> -->
+		</nav>
 
 	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/home.jpg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>

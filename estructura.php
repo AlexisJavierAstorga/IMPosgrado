@@ -198,107 +198,14 @@
 				</div>
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>Titulo</h2>
-						<p>Parrafo</p>
+						<h2>Estructura del Posgrado</h2>
+						<p aling="justifi">El Posgrado del IMP ha sido planteada para que el estudiante, durante su proceso de formación, se beneficie directamente de las plataformas operativas y de toda la  actividad cotidiana del Instituto, mediante la participación en los proyectos.</p>
+
+						<p aling="justifi">En el IMP el estudiante, además de su formación académica se involucra directamente, con tareas asignadas y objetivos de aprendizaje, en proyectos que se llevan a  cabo en el campo de aplicación.</p>
+
+						<p aling="justifi">El estudiante de maestría o doctorado, junto con el Director de Tesis seleccionará los cursos y en lo posible, los proyectos (de aplicación industrial, de desarrollo de  productos y de investigación), acordes a su tema de tesis. El estudiante de especialidad elegirá, con autorización de su asesor, un proyecto dentro de su ámbito laboral en donde pueda aplicar los conocimientos obtenidos; éste será su proyecto terminal.</p>
 						<p><a href="#" class="btn btn-primary btn-outline">boton</a></p>
 					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div id="fh5co-timeline">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 col-md-offset-0">
-					<ul class="timeline animate-box">
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>Titulo</h3></div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-
-						<br>
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>Titulo</h3></div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo/h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Titulo</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Parrafo</p>
-								</div>
-							</div>
-						</li>
-			    	</ul>
 				</div>
 			</div>
 		</div>
