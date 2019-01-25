@@ -1648,7 +1648,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 42px;
     line-height: 42px;
     font-family: "montserrat-medium", sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
     color: #39b54a;
@@ -1673,7 +1673,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     top: 0;
     left: -70px;
-    width: 70px;
+    width: 80px;
     padding-left: 12px;
 }
 
@@ -3383,7 +3383,7 @@ footer .row {
     border: none;
     width: 85px;
     height: 28px;
-    background: url("../images/logo-footer.png") no-repeat center;
+    background: url("../images/logo/index.png") no-repeat center;
     background-size: 85px 28px;
     font: 0/0 a;
     text-shadow: none;
